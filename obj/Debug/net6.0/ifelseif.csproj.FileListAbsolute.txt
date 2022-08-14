@@ -1,0 +1,15 @@
+C:\Users\serap\Desktop\Pratikler\ifelseif\bin\Debug\net6.0\ifelseif.exe
+C:\Users\serap\Desktop\Pratikler\ifelseif\bin\Debug\net6.0\ifelseif.deps.json
+C:\Users\serap\Desktop\Pratikler\ifelseif\bin\Debug\net6.0\ifelseif.runtimeconfig.json
+C:\Users\serap\Desktop\Pratikler\ifelseif\bin\Debug\net6.0\ifelseif.dll
+C:\Users\serap\Desktop\Pratikler\ifelseif\bin\Debug\net6.0\ifelseif.pdb
+C:\Users\serap\Desktop\Pratikler\ifelseif\obj\Debug\net6.0\ifelseif.csproj.AssemblyReference.cache
+C:\Users\serap\Desktop\Pratikler\ifelseif\obj\Debug\net6.0\ifelseif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serap\Desktop\Pratikler\ifelseif\obj\Debug\net6.0\ifelseif.AssemblyInfoInputs.cache
+C:\Users\serap\Desktop\Pratikler\ifelseif\obj\Debug\net6.0\ifelseif.AssemblyInfo.cs
+C:\Users\serap\Desktop\Pratikler\ifelseif\obj\Debug\net6.0\ifelseif.csproj.CoreCompileInputs.cache
+C:\Users\serap\Desktop\Pratikler\ifelseif\obj\Debug\net6.0\ifelseif.dll
+C:\Users\serap\Desktop\Pratikler\ifelseif\obj\Debug\net6.0\refint\ifelseif.dll
+C:\Users\serap\Desktop\Pratikler\ifelseif\obj\Debug\net6.0\ifelseif.pdb
+C:\Users\serap\Desktop\Pratikler\ifelseif\obj\Debug\net6.0\ifelseif.genruntimeconfig.cache
+C:\Users\serap\Desktop\Pratikler\ifelseif\obj\Debug\net6.0\ref\ifelseif.dll
